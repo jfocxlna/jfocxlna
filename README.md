@@ -1,5 +1,4 @@
 - Hi, I’m @jfocxlna
-- You think I'll give you some contact information here?
 - I’m currently messing around with a computer
 
 <!---
